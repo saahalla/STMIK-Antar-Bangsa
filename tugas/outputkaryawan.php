@@ -27,7 +27,7 @@ Hobi             : <?php echo $_POST["hobi"]; ?><p>
 Kota             : <?php echo $_POST["kota"]; ?><p>
 Alamat           : <?php echo $_POST["alamat"]; ?><p>
 </pre>
-                    <a href="index.php">INPUT DATA LAGI</a>
+                    <a href="index.html">INPUT DATA LAGI</a>
                     <hr>
                 </td>
             </tr>
