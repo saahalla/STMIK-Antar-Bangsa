@@ -35,4 +35,16 @@ Alamat           : <?php echo $_POST["alamat"]; ?><p>
         </table>
     </div>
 </body>
+<!--- botika webchat begin -->
+<script src="https://chat.botika.online/client/assets/js/botika.widget.js"></script> 
+<script> 
+	window.BotikaChat.init({
+		'client': 'RI67JtR',
+		'widget': {
+			'caption': 'Halo, ada yang bisa RS Botika bantu?',
+			
+		}
+	}); 
+</script>
+<!--- botika webchat end -->
 </html>
